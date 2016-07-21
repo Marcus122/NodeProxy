@@ -1,0 +1,149 @@
+html {
+	font-size: 62.5%;	
+}
+
+body {
+	text-align: left;
+    background-color: #ffffff;
+    font-family: 'Open Sans', 'Calibri Light', Calibri, Arial;
+    font-size: 1.6rem;
+    margin: 0;	
+}
+
+
+
+ul, ol, li {
+	margin: 0;
+	padding: 0;
+}
+
+ul, ol {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: #007DA5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	color: #007da5;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+img {
+	display: block;
+	font-size: 0;
+	border: 0;
+	outline: 0;
+	max-width: 100%;
+	max-height: 100%;
+	height: auto;
+}
+
+.price {
+	color: #ff6600;
+	font-weight: bold;
+}
+
+main.content {
+	margin: 2rem;
+}
+
+
+/* Tabstrip */
+.scw {
+	margin: 2rem 0;
+}
+.scs {
+	border-bottom: 1px solid #7c868d;
+	padding: 0 2rem;
+	overflow: hidden;
+	display: flex;
+	align-items: stretch;
+}
+.scs li {
+	flex: 1;
+	background: #ebebeb;
+	border: 1px solid #ebebeb;
+	border-top-left-radius: 0.5rem;
+	border-top-right-radius: 0.5rem;
+	text-align: center;
+	color: #007da5;
+	font-size: 2rem;
+	height: 4rem;
+	line-height: 4rem;
+	margin-left: 0.3rem;
+	cursor: pointer;
+}
+.scs li.active {
+	background: #007da5;
+	border-color: #007da5;
+	color: #fff;
+}
+.scs li:first-child {
+	margin-left: 0;
+}
+.scw section {
+	display: none;
+}
+.sc > header {
+	display: none;
+}
+.sc.active {
+	display: block;
+}
+
+
+
+/* Forms */
+button, input, select {
+	font-family: 'Open Sans Regular', 'Calibri Light', Calibri, Arial;
+	font-size: 1.6rem;
+}
+
+.button {
+	color: #fff;	
+	border-radius: 0.5rem;
+	background-color: #ff6600;
+	border: 2px solid #ff6600;
+	display: block;
+	width: 100%;
+	height: 5.5rem;
+	font-size: 2.5rem;
+	cursor: pointer;
+}
+.secondary {
+	background: #fff;
+	color: #ff0000;
+}
+
+input {
+  width: 100%;
+  border: 1px solid #b7b7b7;
+  border-radius: 0.5rem;
+  height: 3.8rem;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+
+button.icon {
+  height: 3.8rem;
+  width: 3.8rem;
+  border: 0;
+  background: 0;
+  cursor: pointer;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+button.icon span {
+	display: none;
+}
+
+.on {
+	display: block !important;
+}

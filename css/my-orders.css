@@ -1,0 +1,119 @@
+/*******************************************************************
+* My Account > Orders (Shared Styling)
+********************************************************************/
+.order-items {
+	width: 96%;
+	border-collapse: collapse;
+	margin: 0 2rem;
+}
+.order-items td {
+	padding: 1rem;
+	border-bottom: 1px solid #b7b7b7;
+}
+.col-description {
+    color: #007da5;
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+.col-price {
+	text-align: right;
+}
+td.col-order-value {
+	font-size: 2.8rem;
+	text-align: right;
+	border-bottom: 0;
+}
+/*******************************************************************
+* My Account > Orders
+********************************************************************/
+.my-orders section {
+    border: 1px solid #b7b7b7;
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+	margin: 1rem 0 1.5rem;
+}
+.my-orders .order-header {
+	background-color: #ebebeb;
+	border-bottom: 1px solid #b7b7b7;
+	padding: 2rem;
+	display: flex;
+	display: -webkit-flex;
+	justify-content: space-between;
+	-webkit-justify-content: space-between;
+}
+.my-orders a.view-order {
+	width: 18.3rem;
+    border: 2px solid #FF6600 !important;
+	float: right;
+    height: 3.1rem;
+    text-align: center;
+    line-height: 3.1rem;
+}
+.my-orders .order-header-status {
+	font-size: 2.8rem;
+	margin: 0 0 1rem;
+	text-align: right;
+}
+.my-orders .order-header-status .status-descr {
+	color: #007da5;
+}
+
+/*******************************************************************
+* My Account > Order Details
+********************************************************************/
+.order-details {
+	margin: 3rem 0 2rem;
+}
+.order-details .order-header {
+    display: flex;
+    justify-content: space-between;
+	flex-wrap: wrap;
+}
+.order-details .order-header > section {
+    width: 32%;
+	display: flex;
+    flex-direction: column;
+}
+.order-details .order-header > section > div, .order-details .order-items-container {
+    border: 1px solid #b7b7b7;
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+	margin: 1rem 0 1.5rem;
+}
+.order-details .order-header > section > div {
+	padding: 2rem;
+	flex-grow: 1;
+}
+.order-details h3 {
+	color: #000000;
+}
+.order-details .order-header ul {
+	margin: 0 0 1rem;
+}
+.order-details .order-header li {
+	display: flex;
+}
+.order-details .order-header .label {
+	width: 50%;
+}
+.order-details .order-header .status-descr {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.order-details .order-header .order-total {
+	font-weight: bold;	
+}
+.order-details .order-details-summary {
+	margin: 2rem 0;
+}
+.order-items-actions {
+	position: relative;
+}
+.order-items-actions .button {
+    width: 18.3rem;
+    position: absolute;
+    top: -4.3rem;
+    right: 0;
+    height: 3.5rem;
+    line-height: .1rem;
+}

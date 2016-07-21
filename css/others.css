@@ -1,0 +1,879 @@
+/*******************************************************************
+* Navigation Icons
+********************************************************************/
+
+/* Motoring */
+#pn .main li:nth-child(1) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-motoring-electrical.png");
+}
+#pn .main li:nth-child(1) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/motoring-motorcycling.png");
+}
+#pn .main li:nth-child(1) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-motoring-accessories.png");
+}
+#pn .main li:nth-child(1) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/motoring-oils-and-fluids.png");
+}
+#pn .main li:nth-child(1) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/motoring-cleaning.png");
+}
+
+/* Cycling */
+#pn .main li:nth-child(2) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/cycling-bikes.png");
+}
+#pn .main li:nth-child(2) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/cycling-lights.png");
+}
+#pn .main li:nth-child(2) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/cycling-helmets.png");
+}
+#pn .main li:nth-child(2) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/cycling-clothing.png");
+}
+#pn .main li:nth-child(2) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/cycling-parts.png");
+}
+#pn .main li:nth-child(2) .sub-nav > ul > li:nth-child(6) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/cycling-technology.png");
+}
+#pn .main li:nth-child(2) .sub-nav > ul > li:nth-child(7) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/cycling-maintenance.png");
+}
+#pn .main li:nth-child(2) .sub-nav > ul > li:nth-child(8) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/cycling-locks.png");
+}
+#pn .main li:nth-child(2) .sub-nav > ul > li:nth-child(9) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/cycling-training.png");
+}
+
+/* Sport */
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-boxing.png");
+}
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-cricket.png");
+}
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-football.png");
+}
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-tennis.png");
+}
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-golf.png");
+}
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(6) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-swimming.png");
+}
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(7) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-rugby.png");
+}
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(8) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-cycling.png");
+}
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(9) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-running.png");
+}
+#pn .main li:nth-child(3) .sub-nav > ul > li:nth-child(10) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-sports-basketball.png");
+}
+
+/* Electronics */
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-electronics-camera.png");
+}
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/electronics-dvd-players.png");
+}
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/electronics-headphones.png");
+}
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-electronics-audio.png");
+}
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/electronics-accessories.png");
+}
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(6) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav//electronics-mp3-players.png");
+}
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(7) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-electronics-mobile.png");
+}
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(8) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-electronics-satnav.png");
+}
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(9) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/electronics-tablets.png");
+}
+#pn .main li:nth-child(4) .sub-nav > ul > li:nth-child(10) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-electronics-television.png");
+}
+
+/* Office */
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/office-coasters.png");
+}
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/office-diaries.png");
+}
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-office-supplies.png");
+}
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/office-keyrings.png");
+}
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/office-mouse-mats.png");
+}
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(6) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/office-mugs.png");
+}
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(7) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-office-writing.png");
+}
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(8) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/office-stress-ball.png");
+}
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(9) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-office-paper.png");
+}
+#pn .main li:nth-child(5) .sub-nav > ul > li:nth-child(10) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-office-ink.png");
+}
+
+/* Computer */
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-computer-desktops.png");
+}
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-computer-keyboards.png");
+}
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-computer-laptops.png");
+}
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-computer-monitors.png");
+}
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-computer-printers.png");
+}
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(6) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/computer-scanner.png");
+}
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(7) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/computer-speakers.png");
+}
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(8) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/computer-usb-key.png");
+}
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(9) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-computer-tablets.png");
+}
+#pn .main li:nth-child(6) .sub-nav > ul > li:nth-child(10) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-computer-software.png");
+}
+
+/* Camping */
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/camping-bags-and-packs.png");
+}
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/camping-camp-furniture.png");
+}
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/camping-clothing.png");
+}
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-camping-cooking.png");
+}
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/camping-gps-navigation.png");
+}
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(6) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/camping-safety-and-survival-gear.png");
+}
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(7) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-camping-sleeping.png");
+}
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(8) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-camping-furniture.png");
+}
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(9) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-camping-tents.png");
+}
+#pn .main li:nth-child(7) .sub-nav > ul > li:nth-child(10) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-camping-tools.png");
+}
+
+/* Fun */
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-fun-costumes.png");
+}
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/fun-clown-shoes.png");
+}
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-fun-costumes.png");
+}
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/fun-dog-costumes.png");
+}
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-fun-games.png");
+}
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(6) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-hats.png");
+}
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(7) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/fun-party-stuff.png");
+}
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(8) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-fun-outdoor.png");
+}
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(9) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/fun-toys.png");
+}
+#pn .main li:nth-child(8) .sub-nav > ul > li:nth-child(10) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/fun-magic.png");
+}
+
+/* Clothing */
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-hats.png");
+}
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-leather-jackets.png");
+}
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-fleeces.png");
+}
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-gloves.png");
+}
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-shirts.png");
+}
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(6) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-socks.png");
+}
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(7) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-sweatshirts.png");
+}
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(8) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-tshirts.png");
+}
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(9) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-trousers.png");
+}
+#pn .main li:nth-child(9) .sub-nav > ul > li:nth-child(10) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/clothing-shoes.png");
+}
+
+/* Garden */
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(1) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-garden-barberque.png");
+}
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-garden-furniture.png");
+}
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-garden-tools.png");
+}
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/garden-lawn-care.png");
+}
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(5) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-garden-lighting.png");
+}
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(6) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/garden-picnic.png");
+}
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(7) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-garden-decor.png");
+}
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(8) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-garden-buildings.png");
+}
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(9) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/icon-garden-fences.png");
+}
+#pn .main li:nth-child(10) .sub-nav > ul > li:nth-child(10) {
+	background-image: url("../../../../images/c/theme/demo-b2c/nav/garden-water-features.png");
+}
+
+
+
+/*******************************************************************
+* Search
+********************************************************************/
+.layout-products.search .content {
+	margin: 0 2rem;
+	padding-top: 0;
+}
+
+.layout-products.search .box.product {
+	width: 20%;
+}
+/*******************************************************************
+* Basket
+********************************************************************/
+.basket .mc > header {
+	margin: 2rem;
+}
+.items {
+	border: 1px solid #9c9c9c;
+	border-radius: 0.5rem;
+	border-collapse: separate;
+	border-spacing: 0;
+	margin: 2rem 0;
+	width: 91rem;
+	color: #7c868d;
+	display: inline-block;
+	vertical-align: top;
+}
+.items th, .items td {
+	vertical-align: top;
+}
+.items th {
+	padding: 1rem;	
+}
+.items td {
+	border-top: 1px solid #9c9c9c;
+	padding: 2rem 1rem;	
+}
+.col-item {
+	
+}
+.col-item-image {
+	width: 5rem;
+}
+.col-item-description div:first-child {
+	color: #007da5;
+}
+.col-quantity {
+	width: 4rem;
+}
+.col-quantity input {
+	width: 6rem;
+	background: #ebebeb;
+}
+td.col-delete {
+	width: 1.8rem;
+	padding-top: 2.7rem;
+}
+td.col-price, th.col-price {
+	text-align: right;
+	padding-right: 2rem;
+	
+}
+.col-price {
+	width: 7rem;
+}
+.col-click-and-collect, .col-delivery {
+	width: 19.7rem;
+	border-left: 1px solid #ebebeb;
+}
+th.col-click-and-collect, th.col-delivery {
+	text-align: center;
+}
+th.col-click-and-collect button {
+	margin-top: 1rem;
+}
+.summary {
+	background: #EBEBEB;
+	border-radius: 0.5rem;
+	padding: 2rem;
+	vertical-align: top;	
+	display: inline-block;
+	margin: 2rem;
+	width: 25rem;
+	color: #7C868D;
+}
+.summary h2 {
+	margin: 0 0 2rem 0;
+	font-size: 1.8rem;
+}
+.summary table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 0;	
+	margin: 2rem 0;
+	font-weight: bold;
+}
+.summary table th, .summary table td {
+	padding: 0 0 1rem 0;
+}
+.summary table td {
+	text-align: right;
+}
+.summary .total th, .summary .total td {
+	border-top: 1px solid #b7b7b7;
+	padding-top: 1rem;
+	font-size: 2rem;
+} 
+.summary .total td {
+	color: #FF6600;
+}
+.summary a {
+	height: 5rem;
+	line-height: 5rem;
+	text-align: center;
+}
+.summary a:hover {
+	text-decoration: none;
+}
+.summary .paypal {
+	text-align: center;
+	margin: 2rem 0 0 0;
+	font-size: 2rem;
+	font-weight: bold;
+}
+.summary .paypal * {
+	display: inline;
+	vertical-align: top;
+}
+.summary .paypal img {
+	cursor: pointer;
+	margin-left: 1rem;
+}
+.voucher {
+	margin: 2rem 0 5rem 0;
+}
+.voucher h2 {
+	margin-bottom: 2rem;
+	color: #7C868D;
+	font-size: 2rem;
+}
+.voucher span {
+	text-transform: uppercase;
+	color: #7C868D;	
+}
+.voucher input {
+	width: 19rem;
+	display: inline;
+	vertical-align: top;	
+}
+.voucher button {
+	display: inline-block;
+	width: 6.5rem;
+	height: 3.8rem !important;
+	vertical-align: top;
+	margin-left: 1rem;
+}
+.voucher input[type='image'] {
+	width: 1.8rem;
+	height: 2.4rem;
+	margin-left: 2rem;
+}
+/*******************************************************************
+* Login
+********************************************************************/
+.layout-login .mc {
+	width: 46rem;
+	margin: 10rem auto;
+	padding: 3rem;
+	border-radius: 0.5rem;
+	border: 1px solid #b7b7b7;
+	box-sizing: border-box;
+	max-width:100%;
+}
+.layout-login header {
+	margin-bottom: 3rem;
+}
+.layout-login form div {
+	margin: 2rem 0;
+}
+.layout-login label {
+	margin-bottom: 1rem;
+	display: block;
+}
+.layout-login .link {
+	text-align: right;
+}
+.layout-login .action {
+	margin: 3rem 0;
+}
+.layout-login .action input, .layout-login .action a {
+	height: 5rem;
+	line-height: 5rem;
+	text-align: center;
+}
+.layout-login .action a:hover {
+	text-decoration: none;
+}
+.layout-login .last {
+	margin-bottom: 0;
+}
+.layout-login select {
+	display: block;
+	width: 100%;
+	height: 3.8rem;
+	border-radius: 0.5rem;
+	padding: 0 0.8rem;
+}
+.layout-login .error, .layout-login .success {
+	margin: 2rem 0;
+}
+.layout-login .error {
+	color: red;
+}
+.layout-login .success {
+	color: #76bd22;
+}
+/*******************************************************************
+* My Account
+********************************************************************/
+.account-sections {
+	margin: 4rem 0;
+	display: flex;
+}
+.my-account.root p {
+	display: block;
+}
+.account-section {
+	flex: 1 0 25%;
+	display: inline-block;
+	vertical-align: top;
+	background: url("../../../../images/c/theme/demo-b2c/icon-large-favourites.png") 0 0 no-repeat;
+	padding-left: 6.6rem;
+	padding-right: 2rem;
+	box-sizing: border-box;
+}
+.account-section:last-child {
+	margin-right: 0;
+	padding-right: 0;
+}
+main.my-account h1, .account-section h2 {
+	color: #007da5;
+	margin: 0;
+}
+.account-section > header h1 {
+	height: 5.6rem;
+	line-height: 5.6rem;
+	margin-bottom: 2rem;
+}
+.account-sections {
+	margin: 4rem 0;
+}
+.account-sections > section > header {
+	display: block !important;
+}
+.account-section section h1 {
+	border: 0 !important;
+	border-radius: 0 !important;
+	background: 0;
+	height: initial;
+	line-height: initial;
+	margin-bottom: 0;
+	padding: 0;
+	font-size: 2rem;
+}
+.account-section p {
+	margin: 0;
+}
+.account-section section h1:after {
+	content: initial;
+}
+.account-section section {
+	margin-bottom: 2rem;
+}
+.my-account.root .mc > header h1 {
+	border-bottom: 1px solid #b7b7b7;
+	padding-bottom: 1rem;
+}
+.account-section:nth-child(2) {
+	background-image: url("../../../../images/c/theme/demo-b2c/icon-large-orders.png")
+}
+.account-section:nth-child(3) {
+	background-image: url("../../../../images/c/theme/demo-b2c/icon-large-account.png")
+}
+.account-section:nth-child(4) {
+	background-image: url("../../../../images/c/theme/demo-b2c/icon-large-help.png")
+}
+/*******************************************************************
+* My Account
+********************************************************************/
+.my-account.details .mc {
+	max-width: 1220px;
+}
+
+.edit-account-sections {
+	display: flex;
+	justify-content: space-between;
+	margin: 2rem 0 4rem 0;
+}
+.account-details, .preferences {
+	border-radius: 0.5rem;
+	border: 1px solid #b7b7b7;
+	width: 49%;
+}
+.edit-account-sections header {
+	border-bottom: 1px solid #b7b7b7;
+	padding: 2rem;
+	position: relative;
+}
+.edit-account-sections header button {
+	position: absolute;
+	right: 2rem;
+	width: 12rem;	
+	top: 2rem;
+}
+.edit-account-sections .fields {
+	margin: 2rem 2rem 4rem 2rem;
+}
+.edit-account-sections .fields p:first-of-type {
+	min-height: 6rem;
+}
+.edit-account-sections .fields div {
+	margin: 2rem 0;
+}
+.edit-account-sections .fields label {
+	display: block;
+}
+.edit-account-sections .fields input[type='text'], .edit-account-sections .fields input[type='email'], .edit-account-sections .fields input[type='password'], .edit-account-sections .fields select {
+	width: 38rem;
+	padding: 0 1rem;
+}
+.edit-account-sections .fields select {
+	border-radius: 0.5rem;
+	height: 3.8rem;
+}
+.edit-account-sections .fields ul {
+	margin: 1rem 0;
+}
+.edit-account-sections .fields li {
+	display: inline-block;
+	width: 40%;
+	margin: 0 2rem;
+}
+.edit-account-sections .fields div:last-of-type li {
+	width: 100%;
+}
+.account-details .label {
+	font-weight: bold;
+	display: block;	
+}
+.account-details .points {
+	color: #76be43;
+	font-size: 2rem;
+	font-weight: bold;
+}
+.account-details .points span:first-of-type {
+	font-size: 3rem;
+}
+.account-details.loyalty a {
+	width: 18rem;
+	font-size: 1.8rem;
+	line-height: 3.5rem;
+	height: 3.5rem;
+	text-align: center;	
+}
+.account-details.loyalty a:hover {
+	text-decoration: none;
+}
+.account-details.refer .fields div:first-of-type button {
+	display: inline;
+	margin-left: 2rem;
+	width: 7rem;
+}
+.account-details.refer .fields img {
+	margin: 1rem 0 5.4rem 0;
+}
+/*******************************************************************
+* Address Book
+********************************************************************/
+#address-book .mc {
+	width: 1220px;
+}
+.address-type header {
+	margin: 2rem 0;
+}
+.addresses {
+	/*display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: flex-start;*/
+}
+.addresses section {	
+	border: 1px solid #b7b7b7;
+	border-radius: 0.5rem;
+	padding: 2rem;
+	box-sizing: border-box;
+	height: 20rem;
+	margin: 0.5rem 0.5rem 2rem 0.5rem;
+	display: inline-block;
+	width: 29rem;
+	vertical-align: top;
+	position: relative;
+	box-shadow: 0.5rem 0.5rem 0.5rem #ccc;
+}
+.addresses section form, .addresses section form button {
+	margin: 0;
+	bottom: 1rem;
+	position: absolute;
+}
+.addresses section form.delete button {
+	left: 13rem;
+}
+.addresses section form button {
+	width: 12rem;
+}
+.addresses section .default {
+	right: 2rem;
+	top: 2rem;
+}
+.addresses .add-new {
+	background: url("../../../../images/c/theme/demo-b2c/add-address.png") 50% 6.5rem no-repeat;
+	color: #D1D1D1;
+	text-align: center;
+	cursor: pointer;
+}
+.addresses .add-new span {
+	position: absolute;
+	top: 11.5rem;
+	left: 0;
+	right: 0;
+	margin: auto;	
+}
+/*******************************************************************
+* Lists
+********************************************************************/
+.my-lists {
+	width: 22.8rem;
+	margin-top: 4rem;
+	float: left;
+	margin-bottom: 4rem;	
+}
+.my-lists ul {
+	background: #ebebeb;
+	padding: 2rem;
+	margin-bottom: 2rem;
+	border-radius: 0.5rem;
+}
+.my-lists li:first-of-type {
+	border-top: 1px solid #b7b7b7;
+}
+.my-lists li {
+	border-bottom: 1px solid #b7b7b7;
+	padding: 1rem 0;
+}
+.my-lists li span {
+	cursor: pointer;
+	color: #007da5;
+}
+.my-lists li span:hover {
+	text-decoration: underline;
+}
+.my-lists button {
+	height: 3.5rem;
+	font-size: 1.8rem;
+}
+.list-products {
+	display: none;
+}
+.list-products.active {
+	display: block;
+}
+.list-products .options {
+	position: relative;
+	height: 3.5rem;
+}
+.list-products .options form:last-of-type {
+	position: absolute;
+	right: 0;
+}
+.list-products .options input {
+	width: 15rem;
+	border: 0;
+	font-size: 2rem;
+}
+.list-products .options button {
+	display: inline-block;
+	width: 15rem;
+	
+}
+.list-products-wrapper {
+	margin-left: 26rem;
+	min-height: 40rem;
+	margin-top: 4rem;
+	margin-bottom: 4rem;
+}
+.list-products-wrapper .options {
+	margin-left: 0;
+	font-size: 2rem;
+}
+.list-products .box {
+	width: 25%;
+}
+.list-products .box h1 {
+	text-align: left;
+}
+.lists-overlay {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	background-color: #000;
+	opacity: 0.2;
+	z-index: 10000;
+	display: none;
+}
+#add-list {
+	width: 44.5rem;
+	height: 20rem;
+	background: #fff;
+	border-radius: 0.5rem;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	z-index: 10001;
+	padding: 2rem;
+	text-align:left;
+	display: none;
+}
+#add-list .close {
+	background: url("../../../../images/c/theme/demo-b2c/icon-close.png") 0 50% no-repeat;
+	width: 2.4rem;
+	height: 2.4rem;
+	display: block;
+	position: absolute;
+	right: 2rem;
+	top: 2rem;
+	cursor: pointer;
+}
+#add-list table {
+	border-bottom: 1px solid #b7b7b7;
+	width: 100%;
+	margin: 2rem 0;
+	border-collapse: collapse;
+}
+#add-list table th {
+	font-weight: normal;
+}
+#add-list table th:nth-child(2) {
+	text-align: center;
+}
+#add-list table td {
+	padding: 1rem 0;
+}
+#add-list input, #add-list select {
+	width: 14rem;
+}
+#add-list select {
+	border-radius: 0.5rem;
+	height: 3.7rem;
+}
+#add-list button {
+	float: right;
+	width: 7.5rem;
+	height: 3.7rem;
+	font-size: 1.8rem;
+}
